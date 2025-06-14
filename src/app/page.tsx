@@ -1,7 +1,7 @@
 'use client';
 
 import Image from "next/image";
-import { FaPhoneAlt, FaEnvelope, FaFilePdf } from "react-icons/fa";
+import { FaPhoneAlt, FaEnvelope, FaFilePdf, FaRegCalendarAlt } from "react-icons/fa";
 import { motion } from "framer-motion";
 
 export default function Home() {
@@ -19,7 +19,7 @@ export default function Home() {
             className="rounded-full border-4 border-white"
           />
 
-          <section className="mt-8 w-full">
+          {/* <section className="mt-8 w-full">
             <h2 className="text-xl font-semibold border-b border-white pb-1 mb-3">
               Soft Skills
             </h2>
@@ -36,7 +36,7 @@ export default function Home() {
               <li>Resiliência frente a desafios</li>
               <li>Organização e foco em resultados</li>
             </ul>
-          </section>
+          </section> */}
 
           <section className="mt-6 w-full">
             <h2 className="text-xl font-semibold border-b border-white pb-1 mb-3">
@@ -96,6 +96,9 @@ export default function Home() {
             </p>
             <p className="flex items-center gap-2">
               <FaEnvelope /> robson.albuquerque.docs@gmail.com
+            </p>
+            <p className="flex items-center gap-2">
+              <FaRegCalendarAlt /> 16/07/1999
             </p>
             <a
               href="/robson-cv.pdf"

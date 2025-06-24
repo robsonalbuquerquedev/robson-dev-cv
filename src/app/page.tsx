@@ -263,7 +263,19 @@ export default function Home() {
 
               <li>
                 <p className="font-semibold">Descomplica Que Destrava – Gabi Modesto Teacher</p>
-                <p>Em andamento • 2025.</p>
+                <p>
+                  Curso Online de Inglês • 2025
+                  <span className="print:hidden"> –{" "}
+                    <a
+                      href="https://drive.google.com/file/d/1h-BP5_i0NMhpoR0AbMt21Q1v10JaDIY4/view?usp=sharing"
+                      className="text-blue-600 hover:underline"
+                      target="_blank"
+                    >
+                      Ver certificado 🔗
+                    </a>
+                  </span>
+                  <span className="hidden print:inline">.</span>
+                </p>
               </li>
             </ul>
           </section>

@@ -1,7 +1,5 @@
 // src/components/actions/ProjectsCallout.tsx
 
-import { ArrowUpRight } from "lucide-react"
-
 export default function ProjectsCallout() {
     return (
         <div className="mt-4 mb-6 rounded-md border border-slate-700 bg-slate-900/50 p-4 text-sm text-slate-300">

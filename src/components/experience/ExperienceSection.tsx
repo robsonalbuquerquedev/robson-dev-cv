@@ -32,7 +32,7 @@ export default function ExperienceSection() {
                         Desenvolvimento da plataforma <strong>Aprender Violão Online</strong>, uma aplicação educacional interativa construída com Next.js 14 (App Router) para o ensino de violão e teoria musical, com animações em Framer Motion e integração com Google AdSense e Hotmart.
                     </li>
                     <li>
-                        Criação do <strong>Cantos JSM</strong>, plataforma voltada a ministérios de música, com organização de cantos litúrgicos por momento da missa e categorias espirituais, incluindo tom musical, trechos permitidos e cifras opcionais (em análise pelo Google AdSense).
+                        Criação do <strong>Cantos JSM</strong>, plataforma digital voltada a ministérios de música, focada na organização de cantos litúrgicos por momento da missa e categorias espirituais, com informações como tom musical, trechos permitidos e cifras opcionais, integrada ao Google AdSense para monetização de conteúdo.
                     </li>
                     <li>
                         Desenvolvimento do <strong>Windly</strong>, plataforma educacional com foco em Tailwind CSS, Next.js, SEO, HTML semântico, acessibilidade e performance, incluindo blog dinâmico sobre tecnologia (em análise pelo Google AdSense).
